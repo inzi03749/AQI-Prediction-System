@@ -5,4 +5,6 @@ scikit-learn
 xgboost
 streamlit
 plotly
+joblib
 statsmodels
+altair
